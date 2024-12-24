@@ -1,5 +1,5 @@
 function PopularProducts() {
-  return <div></div>;
+  return <div>PopularProducts</div>;
 }
 
 export default PopularProducts;

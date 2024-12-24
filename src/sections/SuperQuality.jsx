@@ -1,5 +1,5 @@
 function SuperQuality() {
-  return <div></div>;
+  return <div>super quality</div>;
 }
 
 export default SuperQuality;

@@ -1,5 +1,5 @@
 function SpecialOffer() {
-  return <div></div>;
+  return <div>SpecialOffer </div>;
 }
 
 export default SpecialOffer;
