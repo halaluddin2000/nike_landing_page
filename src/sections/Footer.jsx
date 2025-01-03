@@ -1,5 +1,5 @@
 function Footer() {
-  return <div>Footer or done</div>;
+  return <div>hlw footer done</div>;
 }
 
 export default Footer;
