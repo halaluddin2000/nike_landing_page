@@ -19,10 +19,10 @@ const App = () => (
       <PopularProducts />
     </section>
     <section className="padding">
-      <SpecialOffer />
+      <SuperQuality />
     </section>
     <section className="padding">
-      <SuperQuality />
+      <SpecialOffer />
     </section>
     <section className="padding">
       <Services />
