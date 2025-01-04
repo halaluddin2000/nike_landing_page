@@ -8,9 +8,13 @@ function PopularProductCard({ imgURL, name, price }) {
         <p className="font-montserrat text-xl leading-normal text-slate-gray">
           (4.5)
         </p>
-        <h3>{name}</h3>
-        <p>{price}</p>
       </div>
+      <h3 className="mt-2 text-2xl leading-normal font-semibold  font-palanquin">
+        {name}
+      </h3>
+      <p className="mt-2 font-semibold font-montserrat text-coral-red text-xl leading-normal">
+        {price}
+      </p>
     </div>
   );
 }
