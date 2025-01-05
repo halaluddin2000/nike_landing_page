@@ -22,9 +22,6 @@ const App = () => (
       <SuperQuality />
     </section>
     <section className="padding">
-      <SpecialOffer />
-    </section>
-    <section className="padding">
       <Services />
     </section>
     <section className="padding">

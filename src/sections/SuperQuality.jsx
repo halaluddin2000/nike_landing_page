@@ -23,8 +23,14 @@ function SuperQuality() {
         <p className="mt-6 lg:max-w-lg info-text">
           Our dedication to detail and excellence ensures your satisfaction
         </p>
-        <div className="mt-11">
+        <div className="mt-11 flex flex-wrap gap-4">
           <Button label="view details" />
+          <Button
+            label="Learn more"
+            backgroundColor="bg-white"
+            borderColor="border-slate-gray"
+            textColor="text-slate-gray"
+          />
         </div>
       </div>
       <div className="flex-1 flex justify-center items-center">
